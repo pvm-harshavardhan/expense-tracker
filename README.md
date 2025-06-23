@@ -2,6 +2,9 @@
 
 A modern, responsive web application to track your income and expenses, manage your budget, and gain insights into your personal finances. Add, edit, and delete transactions with ease, and see your balance, income, and expenses at a glance.
 
+
+> 🌐 **Live Demo:** [View the Expense Tracker App](https://pvm-harshavardhan.github.io/expense-tracker/)
+
 ![App Screenshot](project_screenshot.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
